@@ -1,1 +1,2 @@
-# typing-
+# Typing
+A simple typing game
